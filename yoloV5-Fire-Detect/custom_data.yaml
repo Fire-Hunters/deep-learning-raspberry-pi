@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/aaaaa/train_firee/images/train
+val: /content/drive/MyDrive/aaaaa/train_firee/images/val
+
+# Classes
+nc: 2 # number of classes
+names: ['fire', 'smoke'] 
